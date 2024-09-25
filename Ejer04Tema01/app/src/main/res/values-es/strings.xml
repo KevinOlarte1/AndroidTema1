@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ejer04Tema01</string>
+    <string name="title">Piedra/Papel/Tikeras</string>
+    <string name="Rock_button">Piedra</string>
+    <string name="Paper_button">Papel</string>
+    <string name="Scissor_button">Tijeras</string>
+    <string name="lizard_button">Lagarto</string>
+    <string name="Spock_button">Spock</string>
+</resources>

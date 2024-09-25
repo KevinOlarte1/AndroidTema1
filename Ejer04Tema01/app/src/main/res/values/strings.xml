@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ejer04Tema01</string>
+    <string name="title">Rock/Paper/scissors</string>
+    <string name="Rock_button">Rock</string>
+    <string name="Paper_button">Paper</string>
+    <string name="Scissor_button">Scissors</string>
+    <string name="lizard_button">Lizard</string>
+    <string name="Spock_button">Spock</string>
+</resources>

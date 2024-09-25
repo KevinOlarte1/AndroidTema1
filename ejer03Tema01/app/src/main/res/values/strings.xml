@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ejer03Tema01</string>
+    <string name="title">heads or tails</string>
+    <string name="subtitle">Do yours bets</string>
+    <string name="tails_button">tails</string>
+    <string name="heads_button">heads</string>
+    <string name="winner">You win!</string>
+    <string name="Losser">You losse</string>
+</resources>

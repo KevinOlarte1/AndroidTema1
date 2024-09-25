@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ejer03Tema01</string>
+    <string name="title">Cara o cruz</string>
+    <string name="subtitle">Haz tus apuestas</string>
+    <string name="tails_button">Cruz</string>
+    <string name="heads_button">Cara</string>
+    <string name="winner">Has ganado</string>
+    <string name="Losser">Has perdido</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ejer02Tema01</string>
+    <string name="title">Factorial</string>
+    <string name="subtitle">enter an integer</string>
+    <string name="calculate_button">Calculate</string>
+    <string name="holder_input">put a number</string>
+</resources>
